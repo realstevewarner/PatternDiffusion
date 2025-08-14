@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8affe3d-a8df-401d-ae3d-4586f0ae82a5" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f8affe3d-a8df-401d-ae3d-4586f0ae82a5" />
 
 # Pattern Diffusion — Seamless Tile Generator (CLI + Gradio)
 
