@@ -2,7 +2,8 @@
 
 # Pattern Diffusion — Seamless Tile Generator (CLI + Gradio)
 
-Small Windows-friendly wrapper around **Arrexel/pattern-diffusion** for generating seamless, tileable textures (e.g., wallpaper, fabrics, game materials).
+Small Windows-friendly wrapper around **Arrexel/pattern-diffusion** for generating seamless, tileable patterns (e.g., wallpaper, fabrics, game materials).
+This is based on Stable Diffusion 2.0 and **works best for non-photorealistic imagery (i.e. textile patterns).**
 Includes a command-line mode and a tiny Gradio web UI.
 
 > **Credit:** The model and the seamless-tiling method are by **Arrexel**. Please see and support the original model here:
@@ -33,11 +34,11 @@ This wrapper follows the model card’s recommended inference recipe:
 ```powershell
 # PowerShell
 cd "D:\AI"  #Use whatever folder you store your AI apps in
-git clone <your-repo-url>.git "Pattern Diffusion"
+git clone https://github.com/realstevewarner/PatternDiffusion.git "Pattern Diffusion"
 cd "Pattern Diffusion"
 ```
 
-> If you’re not using Git, just place `pattern_diffuse.py` in your target folder.
+> **If you’re not using Git, just download the `pattern_diffuse.py` file and place it in your target folder.**
 
 ### 2) Create & activate a virtual environment
 
